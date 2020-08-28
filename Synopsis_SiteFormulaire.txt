@@ -1,0 +1,13 @@
+Joe arrive sur le site. Il clique sur s'inscrire et rentre son identifiant et mot de passe.
+Puis il se connecte avec son identifiant et mot de passe, et arrive au menu.
+Il clique ensuite sur "Creer un formulaire" et arrive dans l'editeur de formulaire.
+Joe choisit un titre "Mon formulaire", rentre une description "Ma description". Il ajoute une question de type champ de texte.
+Il choisit la question "Quel temps fait-il?", et choisit un placeholder "Votre réponse".
+Joe coche la case "requis". Joe ajoute une question de type checkbox. Il choisit la question "Quelle est votre ville préférée?".
+Joe ajoute l'aide "Cochez les cases souhaitées". Joe ajoute une checkbox "Paris". Joe ajoute à nouveau une checkbox "Los Angeles".
+Joe valide le formulaire, puis il est redirigé vers le menu avec un message comme quoi son formulaire a bien été créé.
+Il clique ensuite sur "Acceder à mes formulaires".
+De là, il clique sur le bouton "Aperçu" dans la ligne correspondante à son formulaire.
+Il arrive sur une page avec son formulaire d'afficher. Il le consulte, et clique sur "google form like" pour revenir au menu.
+Il reclique sur "Acceder à mes formulaires" et cette fois il clique sur le bouton "Reponses et stats". 
+Il arrive sur une page avec marquée les questions et les réponses/résultats à ces questions.

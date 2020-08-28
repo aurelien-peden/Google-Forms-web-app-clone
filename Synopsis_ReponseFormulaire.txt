@@ -1,0 +1,5 @@
+Joe se rend à l'url qu'un camarade lui a donné pour répondre à son formulaire.
+Il arrive sur une page avec un formulaire affiché.
+Il répond à la premiere question "Quel temps fait-il?" par "Il fait beau.".
+Il répond à la deuxieme question "Quelle est votre ville préférée ?" en cochant la checkbox "Paris".
+Il clique sur "Envoyer les réponses" et arrive à une page lui disant que ses réponses ont bien été enregistrées.
