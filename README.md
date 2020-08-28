@@ -6,3 +6,6 @@ Aurélien Peden, Maxime Eugene
 
 # Screenshots
 ![Landing page](https://github.com/aurelien-peden/Google-Forms-web-app-clone/blob/master/screenshots/web_app_1.jpg)
+![Dashboard](https://github.com/aurelien-peden/Google-Forms-web-app-clone/blob/master/screenshots/web_app_2.jpg)
+![Form creation](https://github.com/aurelien-peden/Google-Forms-web-app-clone/blob/master/screenshots/web_app_3.jpg)
+![My forms](https://github.com/aurelien-peden/Google-Forms-web-app-clone/blob/master/screenshots/web_app_4.jpg)
